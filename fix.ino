@@ -12,8 +12,8 @@ Adafruit_MLX90614 mlx = Adafruit_MLX90614();
 int val;
 int i;
 // Set these to your desired AP credentials.
-const char *ssid = "masasubur;                          //----untuk seting nama esp kita.......
-const char *password = "masasubur";           //---------untuk seting password.......
+const char *ssid = "masasubur;                          //-----untuk setting nama esp kita------
+const char *password = "masasubur";           //---------untuk setting password.......
 
 ESP8266WebServer server(80);
 
